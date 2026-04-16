@@ -1,4 +1,4 @@
 [
-  ["https://www.youtube.com/watch?v=he26DAbk3Sw", "Charles Chaplin discurso", "Mira el discurso de Charles Chaplin contra Adolf Hitler y deja a todos sin palabras."],
+  ["https://www.youtube.com/watch?v=wXJjwJMWf50", "Charles Chaplin discurso", "Mira el discurso de Charles Chaplin contra Adolf Hitler y deja a todos sin palabras."],
   ["https://www.youtube.com/watch?v=u-gwB9dL3rM", "Discurso de Cantinflas", "Mira el discurso de Cantinflas el 2026."]
 ]
