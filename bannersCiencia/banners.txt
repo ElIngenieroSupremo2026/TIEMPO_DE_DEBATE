@@ -1,1 +1,5 @@
-holis
+[
+  ["banner1.jpg", "Talleres de EPI", "Mira los talleres más actualizados para niños de 7 a 13 años.", "https://epioficial.com/talleres-educativos-para-ninos-de-7-a-13-anos/"],
+  ["banner2.jpg", "Evento Deportivo", "No te pierdas el torneo regional", "https://tusitio.com/evento"],
+  ["banner3.jpg", "Clases de Taekwondo", "Inscríbete hoy mismo", "https://tusitio.com/clases"]
+]
