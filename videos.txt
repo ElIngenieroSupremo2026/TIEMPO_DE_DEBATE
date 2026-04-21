@@ -1,8 +1,5 @@
 [
   ["https://www.youtube.com/watch?v=TFhRXnE2xck", "Agujeros negros", "Descubre lo que son los agujeros negro", "ciencia"],
   ["https://www.youtube.com/watch?v=T4R9Jc96rtQ", "Lo mejor de Michael Jordan", "Mira las mejores jugadas de Michael Jordan", "deporte"],
-  ["https://www.youtube.com/watch?v=ISfB_Um-1S8", "Banda de guerra", "Mira lo mejor de la banda de guerra en México", "cultura"],
-  ["https://www.youtube.com/watch?v=duIDvO_QGBY", "Interestelar", "Mira la mejor película del mundo", "ciencia"],
-  ["https://www.youtube.com/watch?v=s8TG8Ct6d7g", "Marcha Dragona", "Escucha la más chida marcha de la banda de guerra", "cultura"],
-  ["https://www.youtube.com/watch?v=HjnhvzHUx9U", "Torneo de Taekwando", "Mira uno de los mejores torneos de Taekwando", "deporte"]
+  ["https://www.youtube.com/watch?v=ISfB_Um-1S8", "Banda de guerra", "Mira lo mejor de la banda de guerra en México", "cultura"]
 ]
