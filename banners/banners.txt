@@ -1,5 +1,5 @@
 [
-  ["banner1.jpg", "Gym Tiger", "El mejor gym de la huasteca", "https://tusitio.com/gym"],
+  ["banner1.jpg", "Guarida Dragón", "Conoce la mejor tienda de equipo de artes marciales de Tamazunchale.", "https://guaridadragon.com/tienda"],
   ["banner2.jpg", "Evento Deportivo", "No te pierdas el torneo regional", "https://tusitio.com/evento"],
   ["banner3.jpg", "Clases de Taekwondo", "Inscríbete hoy mismo", "https://tusitio.com/clases"]
 ]
