@@ -13,5 +13,14 @@
 
   ["https://www.youtube.com/watch?v=uPQqGbuajq0", "Tiger Gym", "Descubre el mejor gym de Tamazunchale", "deporte", "important"],
 
-  ["https://www.youtube.com/watch?v=6etAUxTQlPc", "EL mejor Gym de México", "Ya me da weba escribir", "deporte", "banner"]
+  ["https://www.youtube.com/watch?v=6etAUxTQlPc", "EL mejor Gym de México", "Ya me da weba escribir", "deporte", "banner"],
+
+  ["https://www.youtube.com/watch?v=SNky4GZZG30", "El mejor taller de pequeños ingenieros", "No cambia nada OOOHH MY GOOOD!", "local"],
+
+  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],
+
+  ["https://www.youtube.com/watch?v=DDFf0LN8jRs", "Narcotráfico en Tamazunchale", "Mira cómo grupos de terror causan desastre en Tamazunchale", "local"]
+
+
+
 ]
