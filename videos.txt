@@ -37,6 +37,17 @@
 ["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
 ["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
 ["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=mfL0j37rGes", "Presidente de México da la cara a Trupm", "La presidente Claudia confronta al presidente la super potencia mundial que puede destruir al mundo más de 150 veces", "nacional"]
+["https://www.youtube.com/watch?v=mfL0j37rGes", "Presidente de México da la cara a Trupm", "La presidente Claudia confronta al presidente la super potencia mundial que puede destruir al mundo más de 150 veces", "nacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.",  "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
+[“https://www.youtube.com/watch?v=KWRJiSuF-g0”, “Nuevo riesgo de calentamiento global!”, “Científicos descubren que hay un nuevo riesgo de calentamiento global en el mundo en estos últimos años.”, “internacional”] 
 
 ]
