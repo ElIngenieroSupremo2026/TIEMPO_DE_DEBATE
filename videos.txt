@@ -37,6 +37,23 @@
 ["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
 ["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
 ["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=mfL0j37rGes", "Presidente de México da la cara a Trupm", "La presidente Claudia confronta al presidente la super potencia mundial que puede destruir al mundo más de 150 veces", "nacional"]
+["https://www.youtube.com/watch?v=mfL0j37rGes", "Presidente de México da la cara a Trupm", "La presidente Claudia confronta al presidente la super potencia mundial que puede destruir al mundo más de 150 veces", "nacional"],
+["https://www.youtube.com/watch?v=Fiozt0ukJ84", "La potencia mundial sale del acuerdo de París", "El engreido republicano nuevamente comete una de sus tonterías que afectan al mundo entero", internacional"],
+["https://www.youtube.com/watch?v=ggTIvLargoE", "China amenza con guerra nuclear", "El presidente amenaza a Estados Unidos con guerra nuclear", "internacional"],
+["https://www.youtube.com/watch?v=z1JOmaUMB4E", "Corea del Norte lanza misil nuclear", "El presidente dictador lanza un misil o una cosa así, no sé, tengo un chingo de sueño", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA encubierta en Chihuahua, México", "Resulta que la CIA espiaba a México más de lo que creíamos", "internacional"],
+
+
 
 ]
