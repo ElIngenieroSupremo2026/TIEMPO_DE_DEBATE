@@ -1,0 +1,5 @@
+[
+  ["banner1.jpg", "EPI va a Encuentro Estatal de prototipos", "Mira la aventura que tuvieron 4 grandes personales de EPI en el Concurso Nacional de Prototipos y Emprendimiento 2026 en Cd.Valles, S.L.P., México", "https://epioficial.com/talleres-educativos-para-ninos-de-7-a-13-anos/"],
+  ["banner2.jpg", "Evento Deportivo", "No te pierdas el torneo regional", "https://tusitio.com/evento"],
+  ["banner3.jpg", "Clases de Taekwondo", "Inscríbete hoy mismo", "https://tusitio.com/clases"]
+]
