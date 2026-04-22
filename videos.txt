@@ -7,47 +7,6 @@
 
   ["https://www.youtube.com/watch?v=duIDvO_QGBY", "Interestelar", "Mira la mejor película del mundo", "ciencia"],
 
-  ["https://www.youtube.com/watch?v=s8TG8Ct6d7g", "Marcha Dragona", "Escucha la más chida marcha de la banda de guerra", "cultura"],
-
-  ["https://www.youtube.com/watch?v=HjnhvzHUx9U", "Torneo de Taekwando", "Mira uno de los mejores torneos de Taekwando", "deporte"],
-
-  ["https://www.youtube.com/watch?v=uPQqGbuajq0", "Tiger Gym", "Descubre el mejor gym de Tamazunchale", "deporte", "important"],
-
-  ["https://www.youtube.com/watch?v=6etAUxTQlPc", "EL mejor Gym de México", "Ya me da weba escribir", "deporte", "banner"],
-
-  ["https://www.youtube.com/watch?v=SNky4GZZG30", "El mejor taller de pequeños ingenieros", "No cambia nada OOOHH MY GOOOD!", "local"],
-
-  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],
-
-  ["https://www.youtube.com/watch?v=DDFf0LN8jRs", "Narcotráfico en Tamazunchale", "Mira cómo grupos de terror causan desastre en Tamazunchale", "local"],
-  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],
-  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],         ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],
-
-  ["https://www.youtube.com/watch?v=DDFf0LN8jRs", "Narcotráfico en Tamazunchale", "Mira cómo grupos de terror causan desastre en Tamazunchale", "local"],
-  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],
-  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],         ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],
-["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=4tSRr5V3jiQ", "Trump Insisite en 'Narco-Estado´ mexicano", "El vato trompudo de el país terroista más hipócrita y oportunista del maldito mundo sigue insistiendo en que mexico es gobernado por el narcotráfico, un pretexto más para una intervención militar y proteger la doctrina estadounidense.", "nacional"],
-["https://www.youtube.com/watch?v=mfL0j37rGes", "Presidente de México da la cara a Trupm", "La presidente Claudia confronta al presidente la super potencia mundial que puede destruir al mundo más de 150 veces", "nacional"],
-["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
-["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
-["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
-["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
-["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
-["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
-["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
-["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
-["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.",  "internacional"],
-["https://www.youtube.com/watch?v=QI7IhabM_pQ", "CIA espía a Chihuahua en México", "Resulta que Estados Unidos espía más a México de lo que pensábamos.", "internacional"],
-[“https://www.youtube.com/watch?v=KWRJiSuF-g0”, “Nuevo riesgo de calentamiento global!”, “Científicos descubren que hay un nuevo riesgo de calentamiento global en el mundo en estos últimos años.”, “internacional”] 
+  ["https://www.youtube.com/watch?v=s8TG8Ct6d7g", "Marcha Dragona", "Escucha la más chida marcha de la banda de guerra", "cultura"]
 
 ]
