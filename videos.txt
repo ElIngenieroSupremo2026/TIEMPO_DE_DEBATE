@@ -21,6 +21,11 @@
 
   ["https://www.youtube.com/watch?v=DDFf0LN8jRs", "Narcotráfico en Tamazunchale", "Mira cómo grupos de terror causan desastre en Tamazunchale", "local"],
   ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],
+  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],         ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],
+
+  ["https://www.youtube.com/watch?v=DDFf0LN8jRs", "Narcotráfico en Tamazunchale", "Mira cómo grupos de terror causan desastre en Tamazunchale", "local"],
+  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],
   ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],         ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"],  ["https://www.youtube.com/watch?v=OeTEArUsoto", "Tamazunchale está inundado", "Municipio de Tamazunchale San Luis Potosí queda inundado", "local"]
+
 
 ]
