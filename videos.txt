@@ -59,7 +59,7 @@ participan bailarines de todo México, promoviendo tradición y turismo en el mu
 ["https://www.youtube.com/watch?v=gZqr1rCUZOc","Noticias de la noche – Internacional","Noticiero con los hechos más relevantes del día a nivel global y análisis de contexto.","internacional"],
 ["https://www.youtube.com/watch?v=yZh3xsFqCt8","DW Español en vivo – Noticias internacionales","Transmisión continua con cobertura global desde Europa, incluyendo política y economía mundial.","internacional"],
 ["https://www.youtube.com/playlist?list=PLmVsDcVor9k2MhV21Ag4YKXaZepxrId4z","Noticias internacionales (playlist variada 2026)","Lista de reproducción con múltiples reportes globales sobre distintos países y eventos.","internacionales"],
-["https://www.youtube.com/playlist?list=PLw5wrwbWZll82TQTnetIGqGG7AZHAHGpL","Noticia internacional – reportes globales (varios días)","Compilación de noticias internacionales de distintos días con cobertura mundial","internacional"]
+["https://www.youtube.com/playlist?list=PLw5wrwbWZll82TQTnetIGqGG7AZHAHGpL","Noticia internacional – reportes globales (varios días)","Compilación de noticias internacionales de distintos días con cobertura mundial","internacional"]]
 
 
 
